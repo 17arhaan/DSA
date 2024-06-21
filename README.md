@@ -18,44 +18,67 @@ This project contains a collection of fundamental data structures and algorithms
 ●  Solutions are organized by difficulty (easy, medium, hard) and topic (e.g., arrays, strings, dynamic programming).
 <br/>
 
-### Data Structures
+## Data Structures
 #### Arrays
 Dynamic Array
+<br/>
 2D Array
 #### Linked Lists
 Singly Linked List
+<br/>
 Doubly Linked List
+<br/>
 Circular Linked List
 #### Stacks and Queues
 Stack (Array-based and Linked List-based)
+<br/>
 Queue (Array-based and Linked List-based)
+<br/>
 Priority Queue
 #### Trees
 Binary Tree
+<br/>
 Binary Search Tree
+<br/>
 AVL Tree
-Heap
+<br/>
+B+ Tree
+<br/>
+*Heap*
 #### Graphs
 Graph Representation (Adjacency Matrix and Adjacency List)
+<br/>
 Graph Traversal (BFS and DFS)
-### Algorithms
+## Algorithms
 #### Sorting
 Bubble Sort
+<br/>
 Selection Sort
+<br/>
 Insertion Sort
+<br/>
 Merge Sort
+<br/>
 Quick Sort
+<br/>
 Heap Sort
+<br/>
+Bucket Sort
 #### Searching
 Linear Search
+<br/>
 Binary Search
 #### Graph Algorithms
 Dijkstra's Algorithm
+<br/>
 Kruskal's Algorithm
+<br/>
 Prim's Algorithm
 #### Dynamic Programming
 Fibonacci Sequence
+<br/>
 Knapsack Problem
+<br/>
 Longest Common Subsequence
 
 <h2>Key Features</h2>
