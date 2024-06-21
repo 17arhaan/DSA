@@ -1,9 +1,9 @@
 <h1>
-  Welcome to The Python repository! 
+  Welcome to The DSA repository! 
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://user-images.githubusercontent.com/86193685/205382575-03594fa1-0481-4d27-a768-3e9c9e565958.gif)">
+<img src="https://user-images.githubusercontent.com/86193685/205382575-03594fa1-0481-4d27-a768-3e9c9e565958.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
