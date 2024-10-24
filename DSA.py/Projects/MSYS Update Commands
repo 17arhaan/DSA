@@ -1,0 +1,3 @@
+paccache -r
+
+pacman -Suy
