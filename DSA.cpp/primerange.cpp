@@ -1,31 +1,30 @@
 #include <iostream>
 using namespace std;
 
-void fibonacci(int n) {
-    if (n <= 0) {
-        cout << "Length must be greater than 0." << endl;
+void primeRange(int n) {
+    if (n < 2) {
+        cout << "Invalid Response" << endl;
         return;
     }
-    if (n == 1) {
-        cout << "0" << endl;
-        return;
-    }
-    int a = 0, b = 1;
-    cout << "0 1 "; 
-    for (int i = 2; i < n; i++) {
-        int next = a + b;
-        cout << next << " ";
-        a = b;
-        b = next;
+    for (int i = 2; i <= n; i++) {
+        bool isPrime = true;
+        for (int j = 2; j * j <= i; j++) {
+            if (i % j == 0) {
+                isPrime = false;
+                break;
+            }
+        }
+        if (isPrime) {
+            cout << i << " ";
+        }
     }
     cout << endl;
 }
 
 int main() {
     int n;
-    cout << "Enter the length: ";
+    cout << "Enter the range [2 to ?]: ";
     cin >> n;
-    cout << "Fibonacci Series up to " << n << " terms: ";
-    fibonacci(n);
+    primeRange(n);
     return 0;
 }
