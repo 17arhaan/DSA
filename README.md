@@ -18,7 +18,7 @@ This project contains a collection of fundamental data structures and algorithms
 
 ●  A collection of efficient and well-documented solutions to a wide range of LeetCode problems in **C**, **Python**, and **C++**. These solutions are designed to help you understand different problem-solving techniques and improve your algorithmic skills.  
 <br/>  
-●  Solutions are organized by difficulty (easy, medium, hard) and topic (e.g., arrays, strings, dynamic programming).  
+●  Solutions are organized by their question numbers indicating difficulty (easy, medium, hard) and topic (e.g., arrays, strings, dynamic programming).  
 <br/>
 
 ## Data Structures  
