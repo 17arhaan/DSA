@@ -1,5 +1,4 @@
 class Solution {
-    //leetcode solution of https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 public:
     using VB = vector<bool>;
     using VI = vector<int>;
