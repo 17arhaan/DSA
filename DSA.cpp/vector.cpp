@@ -24,5 +24,5 @@ int main() {
     }
 
     printVector(vec);
-    return 0;    
-}
+    return 0;     
+}     
